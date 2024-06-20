@@ -2,3 +2,4 @@ Chat
 ----
 user list
 user detail
+chat history
