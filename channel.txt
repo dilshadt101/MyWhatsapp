@@ -1,1 +1,3 @@
 channel explore list
+
+channel details screen
