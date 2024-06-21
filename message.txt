@@ -1,3 +1,5 @@
 message box
 
 send message (bug fixed)
+
+message improvements
